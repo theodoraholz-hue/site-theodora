@@ -1,0 +1,6 @@
+Salve aqui as imagens usadas pelo site.
+
+O arquivo perfil.jpg aparece na página inicial.
+Para trocar a foto, substitua perfil.jpg por outra imagem mantendo o mesmo nome.
+Use JPG ou WebP, proporção 4:5 e pelo menos 1200 x 1500 pixels.
+

@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+
+website:
+  title: "Theodora Lucas Holz"
+  favicon: images/favicon.svg
+
+format:
+  html:
+    theme: none
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+    html-math-method: plain
+
